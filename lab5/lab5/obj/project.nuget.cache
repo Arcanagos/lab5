@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "gziNUp6mRxw921BnYGYA4GhHk0PVV6KfRYpThSvM88vve/8ObGnvyjoiPPHkIqCZjeNKoWjXZ+TzVvFSk9t+rA==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\rafal.kwiecien\\source\\repos\\lab5\\lab5\\lab5.csproj",
+  "expectedPackageFiles": [
+    "D:\\Users\\rafal.kwiecien\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "D:\\Users\\rafal.kwiecien\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "D:\\Users\\rafal.kwiecien\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "D:\\Users\\rafal.kwiecien\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "D:\\Users\\rafal.kwiecien\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "D:\\Users\\rafal.kwiecien\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
